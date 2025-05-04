@@ -1,2 +1,5 @@
 Name: Sehar Mehar
 Roll no : 24-ST-048
+
+sub (a,b )
+return a - b ;
