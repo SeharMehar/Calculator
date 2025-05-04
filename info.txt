@@ -1,5 +1,10 @@
 Name: Sehar Mehar
 Roll no : 24-ST-048
+ Multiplication
+
+Multiplication(a,b )
+return a * b ;
+=======
  Substraction
 
 Substraction (a,b )
@@ -8,4 +13,5 @@ return a - b ;
 add (a,b )
 return a + b ;
  Addition
+ Substraction
 
