@@ -1,5 +1,10 @@
 Name: Sehar Mehar
 Roll no : 24-ST-048
 
+ Division
 Division(a,b )
 return a / b ;
+=======
+sub (a,b )
+return a - b ;
+ main
