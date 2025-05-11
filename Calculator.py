@@ -1,3 +1,9 @@
+ Multiplication
+int a = 6;
+int b = 5;
+int Multiply = a*b;
+Console.WriteLine("Multiplication of these numbers are:"+ {Multiply});
+
 int a=9;
 int b =7;
 int sum = a + b;
@@ -8,3 +14,4 @@ int a=9;
 int b =7;
 int sub = a - b;
 Console.WriteLine("Sub of these numbers are:"+{sub});
+Addition
